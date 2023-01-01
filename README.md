@@ -1,5 +1,7 @@
 <h1 align="center">Howdy👋, I'm Priyanka</h1>
+<h3 align="center">A curious software engineering student with the ability to learn, adapt and grow. Eager to be challenged to improve software development skills. Able to effectively self-manage during independent projects as well as collaborate in a team setting.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka-125&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka-125" /> </p>
+
 
 
 
