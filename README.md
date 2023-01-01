@@ -2,9 +2,7 @@
 
 <!--
 **Priyanka-125/Priyanka-125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+My name is Kevin, and I **love** nerding out about creative coding, so don't hesitate to reach out!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
