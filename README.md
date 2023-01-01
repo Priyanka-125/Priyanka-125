@@ -25,7 +25,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-125&" alt="priyanka-125" /></p>
 <br>
 **Have a nice day!**
-<br>
+</br>
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 
