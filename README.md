@@ -1,14 +1,17 @@
 <h1 align="center">🤠 Howdy People! I'm Priyanka</h1>
 
-[![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanka-125)](https://github.com/Priyanka-125/github-readme-stats)
 <div align="center">
 
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/priyanka-kumaran-bb8a74214/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumaranpriyanka12@gmail.com)](kumaranpriyanka12@gmail.com)
 </div>
+
+[![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanka-125)](https://github.com/Priyanka-125/github-readme-stats)
+
 <br>
 ### Quick stats about me
- ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+ [![Sy's github stats]](https://github-readme-stats.vercel.app/api?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) 
+ [![Sy's top languages]](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 
 
