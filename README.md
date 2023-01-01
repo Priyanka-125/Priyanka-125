@@ -19,7 +19,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka-125&show_icons=true&locale=en&layout=compact" alt="priyanka-125" /></p>
 <br><br><br><br><br><br><br>
 <h3 align:"left">My Github Stats:</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=priyanka-125&show_icons=true&locale=en" alt="priyanka-125" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=priyanka-125&show_icons=true&locale=en&theme=tokyonight" alt="priyanka-125" /></p>
 <br><br><br><br><br><br><br>
 <h3 align:"left">My Streak:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-125&" alt="priyanka-125" /></p>
