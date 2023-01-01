@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-My name is Priyanka, and I **love** nerding out about creative coding, so don't hesitate to reach out!
+A curious software engineering student
+with the ability to learn, adapt and grow.
+Eager to be challenged to improve
+software development skills. Able to
+effectively self-manage during
+independent projects as well as
+collaborate in a team setting.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,4 +16,4 @@ My name is Priyanka, and I **love** nerding out about creative coding, so don't 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanka-125)](https://github.com/Priyanka-125/github-readme-stats)
+<center>[![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanka-125)](https://github.com/Priyanka-125/github-readme-stats)</center>
