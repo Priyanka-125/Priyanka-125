@@ -24,4 +24,9 @@
 <h3 align:"left">My Streak:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-125&" alt="priyanka-125" /></p>
 
+Have a nice day!
+
+<a href="https://github.com/Priyanka-125"><img src="contributions.svg"></a>
+
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=Priyanka-125.Priyanka-125" />
 
