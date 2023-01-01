@@ -26,7 +26,7 @@
 
 Have a nice day!
 
-<a href="https://github.com/Priyanka-125"><img src="contributions.svg"></a>
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 
 
