@@ -10,7 +10,8 @@
 
 <br>
 **Quick stats about me**
- [![Sy's github stats]](https://github-readme-stats.vercel.app/api?username=Priyank-125&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) 
+<br>
+ ![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanka-125&theme=dark&show_icons=true)
  [![Sy's top languages]](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-125&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 
