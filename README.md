@@ -1,4 +1,4 @@
-<h1 align="center">🤠 Howdy! I'm Sy Rashid</h1>
+<h1 align="center">🤠 Howdy People! I'm Priyanka</h1>
 
 <center>[![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanka-125)](https://github.com/Priyanka-125/github-readme-stats)</center>
 <div align="center">
