@@ -26,4 +26,4 @@
 
 **Have a nice day!**
 
-![Snake animation](https://github.com/Priyanka-125/Priyanka-125/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Priyanka-125/Priyanka-125/blob/output/github-contribution-grid-snake.svg)
