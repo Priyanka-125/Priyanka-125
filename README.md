@@ -24,6 +24,6 @@
 <h3 align:"left">My Streak:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-125&theme=cobalt" alt="priyanka-125" /></p>
 
-**Have a nice day!**
+**Have a nice day!** 
 
 ![Snake animation](https://github.com/Priyanka-125/Priyanka-125/blob/output/github-contribution-grid-snake.svg)
